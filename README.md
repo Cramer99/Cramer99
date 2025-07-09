@@ -7,9 +7,11 @@
    
 - 🔎 Exploring resale fashion trends and environmental data  
 
-- 🛠️ Skilled in ArcGIS, Python (Pandas), and data visualization  - 🔭 I’m currently working on **Tableau**
-
+- 🛠️ Skilled in ArcGIS, Python (Pandas), and data visualization
+  
 - 🌱 I’m currently learning **Google Data Analytics**
+
+ - 🔭 I’m currently working on **Tableau**
 
 - 📫 How to reach me **jcramer06@gmail.com**
 
@@ -18,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cramer99" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jen-cramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jen-cramer" height="30" width="40" />
 <a href="https://dev.to/cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="cramer99" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jen-cramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jen-cramer" height="30" width="40" /></a>
+</a><a href="https://codepen.io/cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="cramer99" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="cramer99" height="30" width="40" /></a>
 <a href="https://kaggle.com/jencramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jencramer" height="30" width="40" /></a>
 <a href="https://instagram.com/cramerjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cramerjj" height="30" width="40" /></a>
