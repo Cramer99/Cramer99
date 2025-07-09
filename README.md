@@ -41,5 +41,5 @@
 
 <a href="https://github.com/Cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cramer99" height="30" width="40" /></a>
 
-<a href="https://github.com/Cramer99" target="blank"><img align="center" src="https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.457Z-er7j912ilmio1qgwj1id9h3c" height="30" width="40" /></a>
+<a href="https://github.com/Cramer99" target="blank"><img align="center" src="https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.457Z-er7j912ilmio1qgwj1id9h3c" height="50" width="60" /></a>
 
