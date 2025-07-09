@@ -1,19 +1,20 @@
-## Hi, I’m Jennifer Cramer! 👋  
-- 🌱 Passionate about sustainability, data analysis, and GIS mapping  
-- 🔎 Exploring resale fashion trends and environmental data  
-- 🛠️ Skilled in ArcGIS, Python (Pandas), and data visualization  
-- 📫 Let’s connect! [linkedin.com/in/jen-cramer](https://www.linkedin.com/in/jen-cramer/)  
-
 <h1 align="center">Hi 👋, I'm Cramer99</h1>
 <h3 align="center">I am learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cramer99&label=Profile%20views&color=0e75b6&style=flat" alt="cramer99" /> </p>
 
-- 🔭 I’m currently working on **Tableau**
+- 🌱 Passionate about sustainability, data analysis, and GIS mapping
+   
+- 🔎 Exploring resale fashion trends and environmental data  
+
+- 🛠️ Skilled in ArcGIS, Python (Pandas), and data visualization  - 🔭 I’m currently working on **Tableau**
 
 - 🌱 I’m currently learning **Google Data Analytics**
 
 - 📫 How to reach me **jcramer06@gmail.com**
+
+- 📫 Let’s connect! [linkedin.com/in/jen-cramer](https://www.linkedin.com/in/jen-cramer/)  
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
