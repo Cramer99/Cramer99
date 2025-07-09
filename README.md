@@ -36,8 +36,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cramer99&show_icons=true&locale=en" alt="cramer99" /></p>
 
-<p align="left"> <img alt="Static Badge" src="https://img.shields.io/badge/linktree-gray?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto">
+<a href=" " target="blank"><img align="center" src="https://img.shields.io/badge/linktree-gray?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto" /></a>
  </p>
+
+<img alt="Static Badge" src="https://img.shields.io/badge/linktr.ee-gray?style=flat&logo=linktree&link=https%3A%2F%2Flinktr.ee%2FJenCramer1">
 
 <a href="https://github.com/Cramer99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Cramer99" height="30" width="40" /></a>
 
