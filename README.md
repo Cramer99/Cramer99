@@ -27,7 +27,7 @@
 <a href="https://kaggle.com/jencramer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jencramer" height="30" width="40" /></a>
 <a href="https://instagram.com/cramerjj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="cramerjj" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/rogan99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="rogan99" height="30" width="40" /></a>
-<a href="https://public.tableau.com/app/profile/jennifer.cramer/vizzes" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau%20Public-blue?style=plastic&logo=tableau" alt="jennfer.cramer" height="30" width="40" /></a>
+<a href="https://public.tableau.com/app/profile/jennifer.cramer/vizzes" target="blank"><img align="center" src="https://img.shields.io/badge/Tableau%20Public-blue?style=plastic&logo=tableau" alt="jennfer.cramer" height="50" width="60" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
