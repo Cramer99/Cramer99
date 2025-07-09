@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cramer99</h1>
 <h3 align="center">Always learning</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cramer99&label=Profile%20views&color=0e75b6&style=flat" alt="cramer99" /> </p>
 
 - 🌱 Passionate about sustainability, data analysis, and GIS mapping
    
@@ -43,3 +42,4 @@
 
 <a href="https://github.com/Cramer99" target="blank"><img align="center" src="https://cdn.hackernoon.com/images/itAdCg4hR9MQ99O0VxSivIU8QEk2-2023-11-17T11:16:53.457Z-er7j912ilmio1qgwj1id9h3c" height="50" width="60" /></a>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cramer99&label=Profile%20views&color=0e75b6&style=flat" alt="cramer99" /> </p>
