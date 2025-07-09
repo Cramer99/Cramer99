@@ -3,6 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cramer99&label=Profile%20views&color=0e75b6&style=flat" alt="cramer99" /> </p>
 
+<p align="right"> <img alt="Static Badge" src="https://img.shields.io/badge/linktree-gray?style=flat&logo=linktree&logoColor=%2343E55E&logoSize=auto">
+ </p>
+
 - 🌱 Passionate about sustainability, data analysis, and GIS mapping
    
 - 🔎 Exploring resale fashion trends and environmental data  
