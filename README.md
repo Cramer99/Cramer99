@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cramer99</h1>
-<h3 align="center">Sustainability-driven data analyst & Lifelong Learner</h3>
+<h3 align="center">Sustainability-Driven Data Analyst & Lifelong Learner</h3>
 
 
 - 🌱 Passionate about sustainability, data analysis, and GIS mapping
