@@ -12,7 +12,7 @@
 
  - 🔭 I’m currently working on **Tableau**
 
-- 📫 How to reach me **jcramer06@gmail.com**
+- 📫 How to reach me jcramer06@gmail.com
 
 - 📫 Let’s connect! [linkedin.com/in/jen-cramer](https://www.linkedin.com/in/jen-cramer/)  
 
