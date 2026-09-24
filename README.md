@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cramer99</h1>
+<h1 align="center">Hi, I'm Cramer99</h1>
 <h3 align="center">Sustainability-Driven Data Analyst & Lifelong Learner</h3>
 
 
