@@ -1,0 +1,7 @@
+First coding experience
+
+TI-99/ 4A learning manual
+
+from the beginner's manual for the Texas Instruments TI-99/4A home computer's TI BASIC programming guide
+
+note:The historic "Mr. Bojangles" program is found in Chapter 5 of the official TI-99/4A Beginner's BASIC manual written by Don Inman, Ramon Zamora, and Bob Albrecht. The program uses screen-plotting commands like CALL HCHAR and CALL VCHAR with asterisks to draw the figure and loops to animate a dancing motion. You can run this code today using modern TI-99/4A emulators by typing the listing and executing it in TI BASIC.
